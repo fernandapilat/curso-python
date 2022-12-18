@@ -52,3 +52,11 @@ O escopo do curso se divide em 26  aulas, sendo:
  - Prevendo dados diariamente com Machine Learning.
 
 Para mais informações sobre o curso acesse a [página](https://didatica.tech/curso-de-python-para-machine-learning-e-ciencia-de-dados-gratuito/).
+
+
+### Exercício machine learning
+Executar um algoritmo de machine learning para classificar vinhos entre tintos e brancos.
+
+**Algoritmo utilizado:** ExtraTreesClassifier.
+
+> Cria diversas árvores de decisão e através da combinação dos resultados de cada árvore encontra a resposta final.
