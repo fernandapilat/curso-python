@@ -1,4 +1,4 @@
-## Cursos
+## Curso Didática Tech
 ### Python para iniciantes
 Curso desenvolvido pelo canal Didática Tech, no qual são abordados os comandos básicos da linguagem python, bem como,  exercícios no decorrer das aulas.
 O escopo do curso se divide em 12 aulas, sendo:
