@@ -62,3 +62,6 @@ Executar um algoritmo de machine learning para classificar vinhos entre tintos e
 > Cria diversas árvores de decisão e através da combinação dos resultados de cada árvore encontra a resposta final.
 
 [Base de dados](https://www.kaggle.com/datasets/dell4010/wine-dataset) utilizada para treinar modelo.
+
+## Curso Hashtag Programação
+
