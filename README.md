@@ -63,5 +63,5 @@ Executar um algoritmo de machine learning para classificar vinhos entre tintos e
 
 [Base de dados](https://www.kaggle.com/datasets/dell4010/wine-dataset) utilizada para treinar modelo.
 
-## Curso Hashtag Programação
+    
 
